@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/itokiana/PROJECTS/DIRIS/OpenCV-android-sdk/sdk/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.
